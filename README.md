@@ -14,7 +14,7 @@ Este es una versión modificada del clásico juego de "Pares o Nones" implementa
 
 ## Ejecución
 
-Para jugar, asegúrate de tener Python instalado en tu sistema. Luego, guarda el código en un archivo llamado `pares_o_nones.py` y ejecuta el script desde tu terminal ejecuta 'python -m pares_o-nones'.
+Para jugar, asegúrate de tener Python instalado en tu sistema. Luego, guarda el código en un archivo llamado `pares_o_nones.py` y ejecuta el script desde tu terminal ejecuta `python -m pares_o-nones`.
 Asegurate de estar en el mismo directorio donde se encuentra el código.
 
 ## Posibles mejoras
