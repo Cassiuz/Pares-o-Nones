@@ -1,4 +1,4 @@
-# Juego de Pares o Nones (Modificado)
+# Juego de Pares o Nones
 
 Este es una versión modificada del clásico juego de "Pares o Nones" implementado en Python. Antes de que el jugador elija su número, se le pregunta si cree que la suma de su número y el número aleatorio de la computadora será par o impar.
 
