@@ -2,6 +2,9 @@
 
 Este es una versión modificada del clásico juego de "Pares o Nones" implementado en Python. Antes de que el jugador elija su número, se le pregunta si cree que la suma de su número y el número aleatorio de la computadora será par o impar.
 
+## Librerías
+`import random`
+
 ## Cómo Jugar
 
 1.  Ejecuta el script de Python (`pares_o_nones.py`).
